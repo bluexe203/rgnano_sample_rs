@@ -1,0 +1,5 @@
+[target.armv7-unknown-linux-musleabihf]
+linker = "arm-funkey-linux-musleabihf-gcc"
+
+[profile.release]
+strip = true
